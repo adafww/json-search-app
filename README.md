@@ -26,7 +26,7 @@ JSON Search App - это веб-приложение, разработанное
 
 ### `npm install`
 
-### `node server.js`
+### `node src/server.js`
 
 ## Запуск фронтенда (React)
 
